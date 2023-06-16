@@ -97,11 +97,11 @@ def processBuffer(text, docID, isTitle):
     text = cleanText(text)
     regExp.sub(' ', text)
     words = text.split()
-    totaldl += len(words)
     tokens = list()
     for word in words:
         if word not in stopwordsList:
             tokens.append(word.strip())
+    totaldl += len(tokens)
     if isTitle == True:
         addToIndex(tokens, docID, "t")
     else:
@@ -119,7 +119,7 @@ def processBuffer(text, docID, isTitle):
                 f.close()
                 invertedIndex.clear()
                 stemmingMap.clear()
-    return len(words)
+    return len(tokens)
 
 class WikiContentHandler(ContentHandler):
     def __init__(self):
