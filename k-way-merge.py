@@ -1,9 +1,8 @@
-import sys
 import os
 import timeit
 from glob import glob
 from collections import defaultdict
-from heapq import heapify, heappush, heappop
+from heapq import heappush, heappop
 
 
 splittedIndexFolder = './index'
@@ -25,23 +24,6 @@ currentRowofFile = dict()
 kWayHeap = list()
 termDict = dict()
 total = 0
-
-start = timeit.default_timer()
-
-
-def writeIndextofile():
-    global numberOfMergedIndexfile
-    numberOfMergedIndexfile += 1
-    fileName = mergedIndexFolder + '/index' \
-        + str(numberOfMergedIndexfile) + '.txt'
-    firstWord = True
-    with open(fileName, 'w') as fp:
-        for i in sorted(invertedIndex):
-            if firstWord:
-                secondaryIndex[i] = numberOfMergedIndexfile
-                firstWord = False
-            fp.write(str(i) + '=' + invertedIndex[i] + '\n')
-
 
 def writeSecondaryIndex():
     fileName = mergedIndexFolder + '/secondaryIndex.txt'
@@ -106,7 +88,7 @@ def kWayMerge():
                 writePrimaryIndex()
                 invertedIndex.clear()
 
-
+start = timeit.default_timer()
 kWayMerge()
 writePrimaryIndex()
 writeSecondaryIndex()

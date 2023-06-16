@@ -1,4 +1,3 @@
-import sys
 import timeit
 import re
 from xml.sax import parse

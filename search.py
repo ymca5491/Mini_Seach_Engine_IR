@@ -66,17 +66,6 @@ def readSecondaryIndex():
         sys.exit(1)
 
 
-def processIndex():
-    fileName = '/index' + str() + '.txt'
-    firstWord = True
-    with open(fileName, 'w') as fp:
-        for i in sorted(invertedIndex):
-            if firstWord:
-                secondaryIndex[i] = 1
-                firstWord = False
-            fp.write(str(i) + '=' + invertedIndex[i] + '\n')
-
-
 def cleanText(text):
 
     # Regular Expression to remove {{cite **}} or {{vcite **}}
@@ -108,12 +97,6 @@ def cleanText(text):
 
 def getFileNumber(word):
     position = bisect(secondaryIndex, word)
-    if position - 1 >= 0 and secondaryIndex[position - 1] == word:
-        if position - 1 != 0:
-            position -= 1
-        if position + 1 == len(secondaryIndex) \
-            and secondaryIndex[position] == word:
-            position += 1
     return position
 
 
