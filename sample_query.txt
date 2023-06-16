@@ -107,3 +107,63 @@ Enter Query: spring festival
 =>  Wikipedia: Budapest Spring Festival   url:https://en.wikipedia.org/wiki/Budapest_Spring_Festival
 
 Took 0.06217577300049015 sec
+
+Enter Query: nintendo
++++++++++++++++++++++++++++++++++++
+=>  Wikipedia: Nintendo Manufacturing Division   url:https://en.wikipedia.org/wiki/Nintendo_Manufacturing_Division
+=>  Wikipedia: Nintendo Mini Classics   url:https://en.wikipedia.org/wiki/Nintendo_Mini_Classics
+=>  Wikipedia: Nintendo 3DS   url:https://en.wikipedia.org/wiki/Nintendo_3DS
+=>  Wikipedia: Nintendo New York   url:https://en.wikipedia.org/wiki/Nintendo_New_York
+=>  Wikipedia: Nintendo   url:https://en.wikipedia.org/wiki/Nintendo
+=>  Wikipedia: Death of Nintendo   url:https://en.wikipedia.org/wiki/Death_of_Nintendo
+=>  Wikipedia: Nintendo Player's Guide   url:https://en.wikipedia.org/wiki/Nintendo_Player%27s_Guide
+=>  Wikipedia: Nintendo DSi   url:https://en.wikipedia.org/wiki/Nintendo_DSi
+=>  Wikipedia: Mr. Nintendo   url:https://en.wikipedia.org/wiki/Mr._Nintendo
+=>  Wikipedia: New Nintendo 3DS   url:https://en.wikipedia.org/wiki/New_Nintendo_3DS
+
+Took 0.006772659002308501 sec
+
+Enter Query: zelda
++++++++++++++++++++++++++++++++++++
+=>  Wikipedia: Zelda   url:https://en.wikipedia.org/wiki/Zelda
+=>  Wikipedia: Princess Zelda   url:https://en.wikipedia.org/wiki/Princess_Zelda
+=>  Wikipedia: Aunt Zelda   url:https://en.wikipedia.org/wiki/Aunt_Zelda
+=>  Wikipedia: Zelda Williams   url:https://en.wikipedia.org/wiki/Zelda_Williams
+=>  Wikipedia: Zelda Kahan   url:https://en.wikipedia.org/wiki/Zelda_Kahan
+=>  Wikipedia: The Legend of Zelda: Oracle of Seasons and Oracle of Ages   url:https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Oracle_of_Seasons_and_Oracle_of_Ages
+=>  Wikipedia: The Legend of Zelda   url:https://en.wikipedia.org/wiki/The_Legend_of_Zelda
+=>  Wikipedia: The Legend of Zelda 3DS   url:https://en.wikipedia.org/wiki/The_Legend_of_Zelda_3DS
+=>  Wikipedia: Zelda Spellman   url:https://en.wikipedia.org/wiki/Zelda_Spellman
+=>  Wikipedia: Zelda the Great   url:https://en.wikipedia.org/wiki/Zelda_the_Great
+
+Took 0.003689974000735674 sec
+
+Enter Query: genshin impact
++++++++++++++++++++++++++++++++++++
+=>  Wikipedia: Genshin Impact   url:https://en.wikipedia.org/wiki/Genshin_Impact
+=>  Wikipedia: List of Genshin Impact characters   url:https://en.wikipedia.org/wiki/List_of_Genshin_Impact_characters
+=>  Wikipedia: Music of Genshin Impact   url:https://en.wikipedia.org/wiki/Music_of_Genshin_Impact
+=>  Wikipedia: Genshin   url:https://en.wikipedia.org/wiki/Genshin
+=>  Wikipedia: Genshin (disambiguation)   url:https://en.wikipedia.org/wiki/Genshin_(disambiguation)
+=>  Wikipedia: Genius Invokation TCG   url:https://en.wikipedia.org/wiki/Genius_Invokation_TCG
+=>  Wikipedia: Genshin Takano (governor of Hiroshima)   url:https://en.wikipedia.org/wiki/Genshin_Takano_(governor_of_Hiroshima)
+=>  Wikipedia: Hiraga Genshin   url:https://en.wikipedia.org/wiki/Hiraga_Genshin
+=>  Wikipedia: Before the Impact   url:https://en.wikipedia.org/wiki/Before_the_Impact
+=>  Wikipedia: Impaction   url:https://en.wikipedia.org/wiki/Impaction
+
+Took 0.025111350001679966 sec
+
+Enter Query: machine learning
++++++++++++++++++++++++++++++++++++
+=>  Wikipedia: Machine learning   url:https://en.wikipedia.org/wiki/Machine_learning
+=>  Wikipedia: Machine learning control   url:https://en.wikipedia.org/wiki/Machine_learning_control
+=>  Wikipedia: Margin (machine learning)   url:https://en.wikipedia.org/wiki/Margin_(machine_learning)
+=>  Wikipedia: Logic learning machine   url:https://en.wikipedia.org/wiki/Logic_learning_machine
+=>  Wikipedia: Fairness (machine learning)   url:https://en.wikipedia.org/wiki/Fairness_(machine_learning)
+=>  Wikipedia: Timeline of machine learning   url:https://en.wikipedia.org/wiki/Timeline_of_machine_learning
+=>  Wikipedia: Machine Learning (journal)   url:https://en.wikipedia.org/wiki/Machine_Learning_(journal)
+=>  Wikipedia: Torch (machine learning)   url:https://en.wikipedia.org/wiki/Torch_(machine_learning)
+=>  Wikipedia: Transduction (machine learning)   url:https://en.wikipedia.org/wiki/Transduction_(machine_learning)
+=>  Wikipedia: Tanagra (machine learning)   url:https://en.wikipedia.org/wiki/Tanagra_(machine_learning)
+
+Took 0.031184717001451645 sec
