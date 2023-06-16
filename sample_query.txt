@@ -167,3 +167,18 @@ Enter Query: machine learning
 =>  Wikipedia: Tanagra (machine learning)   url:https://en.wikipedia.org/wiki/Tanagra_(machine_learning)
 
 Took 0.031184717001451645 sec
+
+Enter Query: clarkson's farm
++++++++++++++++++++++++++++++++++++
+=>  Wikipedia: Clarkson's Farm   url:https://en.wikipedia.org/wiki/Clarkson%27s_Farm
+=>  Wikipedia: Clarkson Farm Complex   url:https://en.wikipedia.org/wiki/Clarkson_Farm_Complex
+=>  Wikipedia: Clarkson   url:https://en.wikipedia.org/wiki/Clarkson
+=>  Wikipedia: Michael Clarkson   url:https://en.wikipedia.org/wiki/Michael_Clarkson
+=>  Wikipedia: Clarkson, Ontario   url:https://en.wikipedia.org/wiki/Clarkson,_Ontario
+=>  Wikipedia: Clarkson House   url:https://en.wikipedia.org/wiki/Clarkson_House
+=>  Wikipedia: David Clarkson   url:https://en.wikipedia.org/wiki/David_Clarkson
+=>  Wikipedia: Senator Clarkson   url:https://en.wikipedia.org/wiki/Senator_Clarkson
+=>  Wikipedia: Alan Clarkson   url:https://en.wikipedia.org/wiki/Alan_Clarkson
+=>  Wikipedia: James Clarkson   url:https://en.wikipedia.org/wiki/James_Clarkson
+
+Took 0.02627332299744012 sec
