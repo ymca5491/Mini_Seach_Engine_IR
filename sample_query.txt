@@ -1,0 +1,109 @@
+Indexing time:757.0851154050001
+K-way-merging time:62.93186421300015
+Enter Query: suzume
++++++++++++++++++++++++++++++++++++
+=>  Wikipedia: Suzume (song)   url:https://en.wikipedia.org/wiki/Suzume_(song)
+=>  Wikipedia: Suzume   url:https://en.wikipedia.org/wiki/Suzume
+=>  Wikipedia: Suzume (album)   url:https://en.wikipedia.org/wiki/Suzume_(album)
+=>  Wikipedia: Suzume (disambiguation)   url:https://en.wikipedia.org/wiki/Suzume_(disambiguation)
+=>  Wikipedia: Shita-kiri Suzume   url:https://en.wikipedia.org/wiki/Shita-kiri_Suzume
+=>  Wikipedia: List of Stop!! Hibari-kun! chapters   url:https://en.wikipedia.org/wiki/List_of_Stop!!_Hibari-kun!_chapters
+
+Took 0.0037590010033454746 sec
+
+Enter Query: jay chou
++++++++++++++++++++++++++++++++++++
+=>  Wikipedia: Jay Chou   url:https://en.wikipedia.org/wiki/Jay_Chou
+=>  Wikipedia: Jay Chou discography   url:https://en.wikipedia.org/wiki/Jay_Chou_discography
+=>  Wikipedia: Fantasy (Jay Chou album)   url:https://en.wikipedia.org/wiki/Fantasy_(Jay_Chou_album)
+=>  Wikipedia: Capricorn (Jay Chou album)   url:https://en.wikipedia.org/wiki/Capricorn_(Jay_Chou_album)
+=>  Wikipedia: Wow! (Jay Chou album)   url:https://en.wikipedia.org/wiki/Wow!_(Jay_Chou_album)
+=>  Wikipedia: Fearless (Jay Chou EP)   url:https://en.wikipedia.org/wiki/Fearless_(Jay_Chou_EP)
+=>  Wikipedia: Opus 12 (Jay Chou album)   url:https://en.wikipedia.org/wiki/Opus_12_(Jay_Chou_album)
+=>  Wikipedia: Jay Chou's Bedtime Stories   url:https://en.wikipedia.org/wiki/Jay_Chou%27s_Bedtime_Stories
+=>  Wikipedia: List of Jay Chou concert tours   url:https://en.wikipedia.org/wiki/List_of_Jay_Chou_concert_tours
+=>  Wikipedia: List of awards and nominations received by Jay Chou   url:https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Jay_Chou
+
+Took 0.017799840003135614 sec
+
+Enter Query: three body
++++++++++++++++++++++++++++++++++++
+=>  Wikipedia: Three body   url:https://en.wikipedia.org/wiki/Three_body
+=>  Wikipedia: Three Bodies Doctrine   url:https://en.wikipedia.org/wiki/Three_Bodies_Doctrine
+=>  Wikipedia: Fort Berthold Indian Reservation   url:https://en.wikipedia.org/wiki/Fort_Berthold_Indian_Reservation
+=>  Wikipedia: Law enforcement in Portugal   url:https://en.wikipedia.org/wiki/Law_enforcement_in_Portugal
+=>  Wikipedia: Shoulder (disambiguation)   url:https://en.wikipedia.org/wiki/Shoulder_(disambiguation)
+=>  Wikipedia: Borremose bodies   url:https://en.wikipedia.org/wiki/Borremose_bodies
+=>  Wikipedia: Three Whales Corruption Scandal   url:https://en.wikipedia.org/wiki/Three_Whales_Corruption_Scandal
+=>  Wikipedia: St. Vincent Health   url:https://en.wikipedia.org/wiki/St._Vincent_Health
+=>  Wikipedia: Belgian Coast Guard   url:https://en.wikipedia.org/wiki/Belgian_Coast_Guard
+=>  Wikipedia: Mind, Body and Soul   url:https://en.wikipedia.org/wiki/Mind,_Body_and_Soul
+
+Took 0.10128280199933215 sec
+
+Enter Query: Nanjing University
++++++++++++++++++++++++++++++++++++
+=>  Wikipedia: Nanjing University Library   url:https://en.wikipedia.org/wiki/Nanjing_University_Library
+=>  Wikipedia: Nanjing Forestry University   url:https://en.wikipedia.org/wiki/Nanjing_Forestry_University
+=>  Wikipedia: Nanjing Audit University   url:https://en.wikipedia.org/wiki/Nanjing_Audit_University
+=>  Wikipedia: Nanjing Agricultural University   url:https://en.wikipedia.org/wiki/Nanjing_Agricultural_University
+=>  Wikipedia: Jinling College, Nanjing University   url:https://en.wikipedia.org/wiki/Jinling_College,_Nanjing_University
+=>  Wikipedia: Nanjing Medical University   url:https://en.wikipedia.org/wiki/Nanjing_Medical_University
+=>  Wikipedia: Nanjing University   url:https://en.wikipedia.org/wiki/Nanjing_University
+=>  Wikipedia: Nanjing University of Technology station   url:https://en.wikipedia.org/wiki/Nanjing_University_of_Technology_station
+=>  Wikipedia: Nanjing University mutilation case   url:https://en.wikipedia.org/wiki/Nanjing_University_mutilation_case
+=>  Wikipedia: Nanjing Tech University   url:https://en.wikipedia.org/wiki/Nanjing_Tech_University
+
+Took 0.21148691400230746 sec
+
+Enter Query: spiderman
++++++++++++++++++++++++++++++++++++
+=>  Wikipedia: Spider-Man (nickname)   url:https://en.wikipedia.org/wiki/Spider-Man_(nickname)
+=>  Wikipedia: Spider-Man series   url:https://en.wikipedia.org/wiki/Spider-Man_series
+=>  Wikipedia: Spider-Man trilogy   url:https://en.wikipedia.org/wiki/Spider-Man_trilogy
+=>  Wikipedia: Spider-Man (Takuya Yamashiro)   url:https://en.wikipedia.org/wiki/Spider-Man_(Takuya_Yamashiro)
+=>  Wikipedia: Spider-Man (disambiguation)   url:https://en.wikipedia.org/wiki/Spider-Man_(disambiguation)
+=>  Wikipedia: Marvel's Spider-Man   url:https://en.wikipedia.org/wiki/Marvel%27s_Spider-Man
+=>  Wikipedia: The Amazing Spider-Man (handheld video game)   url:https://en.wikipedia.org/wiki/The_Amazing_Spider-Man_(handheld_video_game)
+=>  Wikipedia: Spider-Man: Blue   url:https://en.wikipedia.org/wiki/Spider-Man:_Blue
+=>  Wikipedia: Spider-Man   url:https://en.wikipedia.org/wiki/Spider-Man
+=>  Wikipedia: Spider-Man: India   url:https://en.wikipedia.org/wiki/Spider-Man:_India
+
+Took 0.018214134997833753 sec
+
+Enter Query: ultraman
++++++++++++++++++++++++++++++++++++
+=>  Wikipedia: Ultraman Mebius & Ultraman Brothers   url:https://en.wikipedia.org/wiki/Ultraman_Mebius_%26_Ultraman_Brothers
+=>  Wikipedia: Ultraman Tiga & Ultraman Dyna: New Generations   url:https://en.wikipedia.org/wiki/Ultraman_Tiga_%26_Ultraman_Dyna:_New_Generations
+=>  Wikipedia: Ultraman Nexus (character)   url:https://en.wikipedia.org/wiki/Ultraman_Nexus_(character)
+=>  Wikipedia: Ultraman (manga)   url:https://en.wikipedia.org/wiki/Ultraman_(manga)
+=>  Wikipedia: Ultraman Tiga   url:https://en.wikipedia.org/wiki/Ultraman_Tiga
+=>  Wikipedia: Ultraman Mebius   url:https://en.wikipedia.org/wiki/Ultraman_Mebius
+=>  Wikipedia: Ultraman (disambiguation)   url:https://en.wikipedia.org/wiki/Ultraman_(disambiguation)
+=>  Wikipedia: Ultraman Geed   url:https://en.wikipedia.org/wiki/Ultraman_Geed
+=>  Wikipedia: Ultraman   url:https://en.wikipedia.org/wiki/Ultraman
+=>  Wikipedia: Ultraman (DC Comics)   url:https://en.wikipedia.org/wiki/Ultraman_(DC_Comics)
+
+Took 0.0027630539989331737 sec
+
+Enter Query: chatgpt
++++++++++++++++++++++++++++++++++++
+=>  Wikipedia: ChatGPT   url:https://en.wikipedia.org/wiki/ChatGPT
+=>  Wikipedia: Artificial intelligence and copyright   url:https://en.wikipedia.org/wiki/Artificial_intelligence_and_copyright
+
+Took 0.00337079599921708 sec
+
+Enter Query: spring festival
++++++++++++++++++++++++++++++++++++
+=>  Wikipedia: Spring Festival   url:https://en.wikipedia.org/wiki/Spring_Festival
+=>  Wikipedia: Palm Springs Festival of Festivals   url:https://en.wikipedia.org/wiki/Palm_Springs_Festival_of_Festivals
+=>  Wikipedia: Stuttgart Spring Festival   url:https://en.wikipedia.org/wiki/Stuttgart_Spring_Festival
+=>  Wikipedia: Trujillo Spring Festival   url:https://en.wikipedia.org/wiki/Trujillo_Spring_Festival
+=>  Wikipedia: Spring New Year festival   url:https://en.wikipedia.org/wiki/Spring_New_Year_festival
+=>  Wikipedia: Sbeitla's Spring Festival   url:https://en.wikipedia.org/wiki/Sbeitla%27s_Spring_Festival
+=>  Wikipedia: The Spring Festival   url:https://en.wikipedia.org/wiki/The_Spring_Festival
+=>  Wikipedia: Palm Springs International Film Festival   url:https://en.wikipedia.org/wiki/Palm_Springs_International_Film_Festival
+=>  Wikipedia: Palm Springs International Festival of Short Films   url:https://en.wikipedia.org/wiki/Palm_Springs_International_Festival_of_Short_Films
+=>  Wikipedia: Budapest Spring Festival   url:https://en.wikipedia.org/wiki/Budapest_Spring_Festival
+
+Took 0.06217577300049015 sec
